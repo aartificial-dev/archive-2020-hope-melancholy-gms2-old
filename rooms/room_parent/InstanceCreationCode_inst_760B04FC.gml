@@ -1,0 +1,1 @@
+trigger_script = scr_trigger_end_game;

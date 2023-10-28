@@ -1,0 +1,4 @@
+/// @description Deselect
+// You can write your code in this editor
+
+selected = 0;
