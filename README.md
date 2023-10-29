@@ -1,1 +1,1 @@
-# hope_melancholy_gms2
+Old source code for https://github.com/artificial-studio/hope-melancholy-gms2
